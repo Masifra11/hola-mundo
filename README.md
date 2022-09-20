@@ -1,4 +1,4 @@
-# hola-mundo
-mi primer repositorio de prueba
+# hola mundo
+mi primer repositorio.
 
 Autor: mateo sierra
